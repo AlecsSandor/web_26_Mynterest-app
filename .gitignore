@@ -1,4 +1,5 @@
 accounts.txt
 backend/node_modules
 backend/src/fashion-mnist
+backend/.env
 frontend/node_modules
